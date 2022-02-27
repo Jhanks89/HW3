@@ -5,3 +5,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="keywords" content="HTML, How to">
 <meta name="author" content="Jordan Hanks">  
+<meta name="date" content="02272022">
+<meta name="purpose" content="education on basic web page creation">
+
