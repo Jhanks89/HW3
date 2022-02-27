@@ -1,6 +1,6 @@
 <span style="font-family:Times New Roman; color:red; font-size:14pt; font-style: italic;">Web Page Coding</span>
 <br>
-<span style="font-family: Impact; color: green; font-size: 14pt; font-style: em; text-align: center;">Code With HTML</span>
+<span style="font-family: Impact; color: green; font-size: 14pt; font-style: em; text-align:center;">Code With HTML</span>
 <meta charset="utf-8">
 <meta name="description" content="Coding a Web page with HTML">
 <meta name="viewport" content="width=device-width, initial-scale=1">
