@@ -8,4 +8,14 @@
 <meta name="author" content="Jordan Hanks">  
 <meta name="date" content="02272022">
 <meta name="purpose" content="education on basic web page creation">
-
+<p>Coding could be very hard to learn at first. It seems that it takes a lot of patience, concentration, and effort that goes into learning HTML and CSS. There are many details that go into coding that many individuals may not know, they just see a bunch of letters and numbers on a page and wonder how that translates into a web page.</p>
+<br>
+<p>Creating a webpage using HTML and CSS requires a lot of attention to detail. Once you learn the different inputs and commands that prompt changes it is very rewarding to see a finished product. The process of doing this though could or may be very fustrating. Sometimes you feel that you have the right inputs but for some reason errors are coming up.
+  <br>
+  <ul>
+    <li>Soccer
+      <li>Football
+        <li>Baseball
+          <li>Hockey
+            </ul>
+            
