@@ -19,4 +19,8 @@
           <li>Hockey
             </ul>
            <img src="http://jennymunn.com/wp-content/uploads/2012/06/dwight-schrute-the-office.jpg" alt="alt text">
-            
+            <i>This images was from apage discussing Search Engine Optimization (SEO), and I think its funny.<i>
+  <br>
+  <br>
+  
+  Copyright &copy; Jordan Hanks
