@@ -21,7 +21,7 @@
             <br>
             <img src="http://jennymunn.com/wp-content/uploads/2012/06/dwight-schrute-the-office.jpg" alt="alt text">
             <br>
-            <i>This images was from apage discussing Search Engine Optimization (SEO), and I think its funny.<i>
+            <i>This images was from a page discussing all the loved scenes from The Office show<i>
   <br>
   <br>
               <a href="https://www.ccsf.edu/" target="_blank">CCSF Home</a>
