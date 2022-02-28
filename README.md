@@ -24,7 +24,7 @@
             <i>This images was from apage discussing Search Engine Optimization (SEO), and I think its funny.<i>
   <br>
   <br>
-              <a href="https://www.ccsf.edu/">Link</a>
+              <a href="https://www.ccsf.edu/" target="_blank">CCSF Home</a>
               <br>
               
   Copyright &copy; Jordan Hanks
